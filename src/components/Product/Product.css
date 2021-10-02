@@ -1,0 +1,27 @@
+.product {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border-radius: 7px;
+  overflow: hidden;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+.product img {
+  width: 100%;
+}
+.product .details {
+  padding: 10px;
+}
+.product .product-details {
+  color: #fff;
+  border: 1px solid #949398;
+  border-radius: 4px;
+  padding: 10px 15px;
+  margin-top: 10px;
+  background-color: forestgreen;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}

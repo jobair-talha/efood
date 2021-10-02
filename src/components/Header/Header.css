@@ -1,0 +1,13 @@
+nav {
+  background-color: darkslateblue;
+}
+.nav__item {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 15px;
+  color: white;
+  font-size: 18px;
+}
+.selected {
+  color: darkgray;
+}

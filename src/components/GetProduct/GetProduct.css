@@ -1,0 +1,19 @@
+.product__container {
+  width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  overflow: hidden;
+  border: 1px solid green;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.product__container h1 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.product__container h5 {
+  margin-bottom: 5px;
+}

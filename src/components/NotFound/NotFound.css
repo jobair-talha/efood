@@ -1,0 +1,16 @@
+.notfound {
+  background-color: ghostwhite;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+  color: #000;
+}
+.notfound h1 {
+  font-weight: bold;
+  font-size: 28px;
+}
+.notfound h2 {
+  font-size: 22px;
+}

@@ -1,0 +1,19 @@
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+input {
+  width: 400px;
+  background-color: transparent;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+  padding: 10px;
+  margin-top: 30px;
+}
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+  margin-top: 40px;
+}
